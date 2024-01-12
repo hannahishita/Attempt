@@ -265,3 +265,7 @@ header{
 .login-register p a:hover{
     text-decoration: underline;
 }
+.sec h2,
+.sec p {
+    color: #fff;
+}
